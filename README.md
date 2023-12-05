@@ -153,7 +153,7 @@ A comunicação I2C é suportada pelo Raspberry Pi Pico W. Os pinos I2C disponí
 
 ![Diagrama de Blocos](./img/diagrama_Raspberry_BME.png)
 
-Imagem 2:diagrama de blocos conexão Raspberry e BME
+Imagem 2: diagrama de blocos conexão Raspberry e BME
 
 * **VCC (3.3V)**: Conectar ao pino 3V3 do Raspberry Pi Pico W.
 * **GND (GND)**: Conectar ao pino GND do Raspberry Pi Pico W.
